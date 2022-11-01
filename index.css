@@ -1,6 +1,9 @@
-#proyecto {
+#Project {
   bbackground yellow; color: red
 }
 #Help {
   background: yellow; color red
+}
+#Development {
+  background: red; color: black;
 }
